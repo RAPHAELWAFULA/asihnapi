@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asihnapi/static/css/main.7c00c2bf.css",
+    "main.js": "/asihnapi/static/js/main.4b464bc6.js",
+    "static/js/453.e6e7c29b.chunk.js": "/asihnapi/static/js/453.e6e7c29b.chunk.js",
+    "index.html": "/asihnapi/index.html",
+    "main.7c00c2bf.css.map": "/asihnapi/static/css/main.7c00c2bf.css.map",
+    "main.4b464bc6.js.map": "/asihnapi/static/js/main.4b464bc6.js.map",
+    "453.e6e7c29b.chunk.js.map": "/asihnapi/static/js/453.e6e7c29b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c00c2bf.css",
+    "static/js/main.4b464bc6.js"
+  ]
+}
